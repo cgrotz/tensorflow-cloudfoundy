@@ -1,0 +1,4 @@
+tensorflow==1.0.1
+Flask==0.12.1
+gunicorn==19.7.1
+
